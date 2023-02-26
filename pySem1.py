@@ -95,11 +95,3 @@ if N%5 == 0 and (N%10 == 0 or N%15 == 0) and N%30 != 0:
     print('да')
 else:
     print('нет')
-
-echo "# py_hello" >> README.md 
-git init 
-git add README.md 
-git commit -m "first commit" 
-git branch -M main 
-git remote add origin https://github.com/Korolevskikh/py_hello.git
- git push - ты главный
